@@ -14,7 +14,7 @@ const ProductShowcase = () => {
         <Card className="overflow-hidden shadow-xl">
           <CardContent className="p-0">
             <Image 
-              src="/images/hero.png" 
+              src="/images/mahdi-chaghari-I_BMWfKygmY-unsplash.jpg" 
               alt={t('imageAlt')}
               width={1200} 
               height={675} 
