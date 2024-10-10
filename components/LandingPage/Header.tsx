@@ -15,7 +15,7 @@ const Header: React.FC = () => {
   return (
     <header className="py-4 px-6 flex items-center bg-white">
       <div className="flex items-center flex-grow">
-        <Image src="/images/logo.png" alt="ScriptCraft Logo" width={40} height={40} />
+        <Image src="/images/queenspreciouslogo.png" alt="ScriptCraft Logo" width={40} height={40} />
         <span className="text-2xl font-bold ml-2">{tProduct('name')}</span>
       </div>
       <nav className="flex items-center space-x-6">
